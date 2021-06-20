@@ -42,7 +42,7 @@ Showing no internet alert on Images Screen
 
 Images Screen
 
-<img src = "https://i.ibb.co/QFD2P4b/Whats-App-Image-2021-06-20-at-10-29-21-PM.jpg" width = 200>
+<img src = "https://i.ibb.co/2KbKvyp/Whats-App-Image-2021-06-20-at-10-29-21-PM-2.jpg" width = 200>
 
 Video Player Screen
 

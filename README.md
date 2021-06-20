@@ -32,25 +32,17 @@ flutter run
 
 ## Screenshots
 
-Splash Screen
+Splash Screen             |  Showing no internet alert on Images Screen
+:-------------------------:|:-------------------------:
+![](https://i.ibb.co/Qr5q3zB/Whats-App-Image-2021-06-20-at-10-29-21-PM-3.jpg)  |  ![](https://i.ibb.co/QFD2P4b/Whats-App-Image-2021-06-20-at-10-29-21-PM.jpg)
 
-<img src = "https://i.ibb.co/Qr5q3zB/Whats-App-Image-2021-06-20-at-10-29-21-PM-3.jpg" width = 200>
+Images Screen             |  Video Player Screen
+:-------------------------:|:-------------------------:
+![](https://i.ibb.co/2KbKvyp/Whats-App-Image-2021-06-20-at-10-29-21-PM-2.jpg)  |  ![](https://i.ibb.co/PZTzrVk/Whats-App-Image-2021-06-20-at-10-29-21-PM-1.jpg)
 
-Showing no internet alert on Images Screen
-
-<img src = "https://i.ibb.co/QFD2P4b/Whats-App-Image-2021-06-20-at-10-29-21-PM.jpg" width = 200>
-
-Images Screen
-
-<img src = "https://i.ibb.co/2KbKvyp/Whats-App-Image-2021-06-20-at-10-29-21-PM-2.jpg" width = 200>
-
-Video Player Screen
-
-<img src = "https://i.ibb.co/PZTzrVk/Whats-App-Image-2021-06-20-at-10-29-21-PM-1.jpg" width = 200>
-
-Favourite Screen
-
-<img src = "https://i.ibb.co/9TRJdy3/Whats-App-Image-2021-06-20-at-10-29-09-PM.jpg" width = 200>
+Favourite Screen             |
+:-------------------------:|
+![](https://i.ibb.co/9TRJdy3/Whats-App-Image-2021-06-20-at-10-29-09-PM.jpg)  | 
 
 ## Author
 

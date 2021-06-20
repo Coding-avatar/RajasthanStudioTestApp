@@ -74,6 +74,15 @@ class _VideoPostState extends State<VideoPost> {
                   ),
                 ),
                 Positioned(
+                  top: 10,
+                  left: 10,
+                  child: Icon(
+                    Icons.videocam,
+                    size: 35,
+                    color: Colors.white,
+                  ),
+                ),
+                Positioned(
                   /// Size of container by 2 minus half size of icon
                   top: MediaQuery.of(context).size.width / 2 - 40,
                   left: MediaQuery.of(context).size.width / 2 - 40,
